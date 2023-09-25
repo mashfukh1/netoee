@@ -1,0 +1,44 @@
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\obj\Debug\OEE SKRIPSI.csproj.AssemblyReference.cache
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\obj\Debug\OEE SKRIPSI.csproj.SuggestedBindingRedirects.cache
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\obj\Debug\OEE_SKRIPSI.Form1.resources
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\obj\Debug\OEE_SKRIPSI.Properties.Resources.resources
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\obj\Debug\OEE SKRIPSI.csproj.GenerateResource.cache
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\obj\Debug\OEE SKRIPSI.csproj.CoreCompileInputs.cache
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\bin\Debug\OEE SKRIPSI.exe.config
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\bin\Debug\OEE SKRIPSI.exe
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\bin\Debug\OEE SKRIPSI.pdb
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\bin\Debug\LiveCharts.dll
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\bin\Debug\LiveCharts.pdb
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\bin\Debug\LiveCharts.xml
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\obj\Debug\OEE SKRIPSI.csproj.CopyComplete
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\obj\Debug\OEE SKRIPSI.exe
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\obj\Debug\OEE SKRIPSI.pdb
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\bin\Debug\Google.Protobuf.dll
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\bin\Debug\MySql.Data.dll
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\bin\Debug\System.Buffers.dll
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\bin\Debug\System.Memory.dll
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\bin\Debug\Google.Protobuf.pdb
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\bin\Debug\Google.Protobuf.xml
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\bin\Debug\MySql.Data.xml
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\bin\Debug\System.Buffers.xml
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\bin\Debug\System.Memory.xml
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\bin\Debug\EasyModbus.dll
+C:\Users\engineer\source\repos\OEE SKRIPSI\OEE SKRIPSI\bin\Debug\EasyModbus.xml
